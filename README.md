@@ -10,10 +10,6 @@
 - 👯 I’m looking to collaborate with other people to increase my programming skills 
 - 🥅 2020 Goals: Contribute more to github 
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/ilsfjvzz9dtc6p7v7zx44w1lg)
-
 ### 🛠 Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
