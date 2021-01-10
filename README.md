@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on several [Projects][website]!
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other people to increase my programming skills 
-- 🥅 2020 Goals: Contribute more to github 
+- 🥅 2021 Goals: Contribute more to github 
 
 ### 🛠 Skills :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
