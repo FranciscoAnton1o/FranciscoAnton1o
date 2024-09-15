@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">I'm a young programmer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoanton1o&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoanton1o" /> </p>
 
